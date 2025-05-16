@@ -1,19 +1,7 @@
-# Visualization  netflix
-> The countries that produce the most TV show on netflix
+| date | dataset | file path |
+|-------|--------|----------|
+|Mar-29-2025|[netflix dataset](https://github.com/aymenezz/data-sceince/blob/main/netflix/netflix_titles.csv) |[netflix file path ](https://github.com/aymenezz/data-sceince/tree/main/netflix)
+|Apr-11-2025 |[books dataset ](https://github.com/aymenezz/data-sceince/blob/main/book_data/books.csv)|[books file path](https://github.com/aymenezz/data-sceince/tree/main/book_data)
+|Apr-14-2025 |[homes dataset](https://github.com/aymenezz/data-sceince/blob/main/homes_data/outlier_homes_dataFrame.csv)|[homes file path](https://github.com/aymenezz/data-sceince/tree/main/homes_data)
+|May-1-2025|[student dataset](https://github.com/aymenezz/data-sceince/tree/main/student/data) | [student file path ](https://github.com/aymenezz/data-sceince/tree/main/student)
 
-![The countries that produce the most TV show ](https://github.com/aymenezz/data-sceince/blob/main/netflix/picture/TV.png)
-> The countries that produce the most Movies on netflix
-
-![The countries that produce the most Movies](https://github.com/aymenezz/data-sceince/blob/main/netflix/picture/movies.png)
-
->The countries that produce the most Movies in 2020 on netflix
-
-![The countries that produce the most Movies in 2020](https://github.com/aymenezz/data-sceince/blob/main/netflix/picture/movies_2020.png)
-
-> TV show vs Movies
-
-![pie plot](https://github.com/aymenezz/data-sceince/blob/main/netflix/picture/pie_movie_TV.png)
-
-> most countries product TV show and Movies on netflix
-
-![most countries product TV show and Movies on netflix](https://github.com/aymenezz/data-sceince/blob/main/netflix/picture/top_movie_TV.png)
